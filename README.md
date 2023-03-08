@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👾, I'm MohammadReza Jafari</h1>
 
-![Github Banner](https://github.com/mohmeri73/mohmeri73/blob/MohMeri/assets/programming.png)
+![Github Banner](https://github.com/mohmeri73/mohmeri73/blob/MohMeri73/assets/programming.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230E99D2&center=true&vCenter=true&width=200&height=30&lines=IT+Engineer)](https://git.io/typing-svg)
 
-<p><img align="right" src="https://github.com/mohmeri73/mohmeri73/blob/MohMeri/assets/animation_500_kxa883sd.gif" alt="MohammadReza" /></p>
+<p><img align="right" src="https://github.com/mohmeri73/mohmeri73/blob/MohMeri73/assets/animation_500_kxa883sd.gif" alt="MohammadReza" /></p>
 
 - 🌱 Frontend Developer with 1 years of experience!
 
